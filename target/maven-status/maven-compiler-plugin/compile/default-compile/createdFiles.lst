@@ -1,0 +1,5 @@
+com\poc\Documentlabelling\controller\DocumentController.class
+com\poc\Documentlabelling\model\Document.class
+com\poc\Documentlabelling\service\DocumentService.class
+com\poc\Documentlabelling\service\DocumentServiceImpl.class
+com\poc\Documentlabelling\App.class
